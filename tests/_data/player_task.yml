@@ -1,0 +1,8 @@
+t_player_task:
+-
+  id: 1
+  task_id: 1
+  player_index: 123456
+  schedule_index: 0
+  schedule_count: 3
+  status: 1
